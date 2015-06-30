@@ -1,3 +1,3 @@
 # socketExpress
-1. Comente en el Archivo bin/www en la linea 25
-2. Tambien en el Archivo routes/index.js en la linea 4
+1. Comenté en el Archivo bin/www en la linea 25
+2. También en el Archivo routes/index.js en la linea 4
